@@ -1,5 +1,5 @@
 Repositório destinado ao estudo de LLMs e ao acompanhamento da disciplina de Tópicos Especiais - Doutorado PPGEEC/UFRN/01/2023 - Prof. Ivanovitch Silva
-
+ Grupo: Gabriek Lins, Caldeira Silva, Raphael Fontes
 # LLMs
 
 
@@ -20,6 +20,10 @@ BERTimbau Base is a pretrained BERT model for Brazilian Portuguese that achieves
 - ✅ [Google Colaboratory](https://colab.research.google.com/drive/1NHfXr8yHottuBXY13g6AnloEOrDglPkL?usp=sharing)
 - ❗Medium Article - 🚧 Working in progress (06/11/2023)
 - ❗Loom Video - 🚧 Working in progress (06/11/2023)
+
+## Revolucionando a Informação em Saúde: A Criação de um Chatbot Especialista Utilizando Modelos de Linguagem de Grande Escala (LLM)
+
+- [Medium Article](https://medium.com/@gabrielblins/revolucionando-a-informa%C3%A7%C3%A3o-em-sa%C3%BAde-a-cria%C3%A7%C3%A3o-de-um-chatbot-especialista-utilizando-modelos-de-d246d65d5621)
 
 # Cursos
 
